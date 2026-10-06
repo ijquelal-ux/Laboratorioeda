@@ -24,13 +24,13 @@ public class Laboratorioedad {
                 if(edad >105){
                     System.out.println("Edad fuera de rango, Ingrese correctamente la edad");
                 }else{
-                    System.out.println("Eres de Tercera edad.");
+                    System.out.println("Tercera edad.");
                 }
             }else{
-                System.out.println("Eres Mayor Edad");
+                System.out.println("Mayor Edad");
             }
         }else if(edad <0){
-            System.out.println("Ingrese una edad correcta.");
+            System.out.println("Ingrese edad correcta.");
     }
     
     }
